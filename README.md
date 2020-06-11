@@ -1,5 +1,5 @@
-# DeepUbi
-DeepUbi: a novel domain adaptation based deep learning method for effectively predicting ubiquitination sites of multiple species Developer: Yu Liu from Health Informatics Lab, School of Information Science and Technology, University of Science and Technology of China
+# DeepTL-Ubi
+DeepTL-Ubi: a novel domain adaptation based deep learning method for effectively predicting ubiquitination sites of multiple species Developer: Yu Liu from Health Informatics Lab, School of Information Science and Technology, University of Science and Technology of China
 # Requirement
 keras==2.0.0 <br>
 numpy>=1.8.0
